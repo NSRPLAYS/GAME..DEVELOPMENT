@@ -1,7 +1,7 @@
 # EX 7 : THREE DIMENSIONAL TRANSFORMATIONS
 
-Name: B.Naveen Sairam
-Reg no: 212224240103
+### Name: B.Naveen Sairam
+### Reg no: 212224240103
 
 ## AIM :
  
